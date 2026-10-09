@@ -2,7 +2,7 @@
 
 A Culture Clubhouse branded Sudoku web app built for iPhone. Add it to your Home Screen and it runs full screen, offline, like a native app.
 
-**Play:** https://dwigy.github.io/culture-clubhouse-sudoku/
+**Play:** https://dwigy.github.io/New/
 
 ## Difficulties
 
